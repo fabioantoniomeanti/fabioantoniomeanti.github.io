@@ -22,7 +22,8 @@ body {
 #fondo {
 	font-size: 85%;
 	text-align: center;
-	}
+	background-color: red;
+}
 
 
 #testata, #fondo {
