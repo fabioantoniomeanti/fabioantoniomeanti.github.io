@@ -1,32 +1,14 @@
 html{background:black;}
-#box{
-	width:600px;
-	height:auto;
-	margin:0 auto;
-	background-image:url(img/background.jpg);
-	background-size:100%;
-}
-#top{
-	width:600px;
-	height:200px;
-	background-image:url(img/titolo.png);
-	background-size:auto 150px;
-	background-position:center;
-	background-repeat:no-repeat;
-}
-#menu{
-	width:600px;
-	height:30px;
-	background-image:url(img/menÃ¹.png);
-	background-size:auto 100px;
-}
-#corpo{
-	width:600px;
+#box{width:600px;
+     height:auto;
+     margin:0 auto;
+     background-image:url(img/sfondo.jpg);
+     background-size:100%;}
+#top{}
+#menu{}
+#corpo{width:600px;
 	height:70%;
-	background:transparent;
-}
-#footer{
-	width:600px;
+	background:transparent;}
+#footer{width:600px;
 	height:100px;
-	background:transparent;
-}
+	background:transparent;}
