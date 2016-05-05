@@ -3,13 +3,13 @@ html{background:black;}
 	width:600px;
 	height:auto;
 	margin:0 auto;
-	background-image:url(img/sfondo.jpg);
+	background-image:url(img/sfondo.jpg.jpg);
 	background-size:100%;
 }
 #top{
 	width:600px;
 	height:200px;
-	background-image:url(img/sfondo.png);
+	background-image:url(img/sfondo.jpg.jpg);
 	background-size:auto 150px;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -17,7 +17,7 @@ html{background:black;}
 #menu{
 	width:600px;
 	height:30px;
-	background-image:url(img/sfondo.png);
+	background-image:url(img/sfondo.jpg.jpg);
 	background-size:auto 100px;
 }
 #corpo{
