@@ -26,15 +26,15 @@ html{background: black;}
 #top{
 	width:100%;
 	height:40px;
-	background: trasparent;
+	background:#116062;
 }	
 #corpo{
 	width:100%;
 	height:70%;
-	background:trasparent;
+	background:#116062;
 }
 #footer{
 	width:100%;
 	height:100px;
-	background:trasparent;
+	background:#116062;
 }
