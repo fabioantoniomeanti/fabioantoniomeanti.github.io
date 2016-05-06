@@ -2,9 +2,8 @@ html{background: black;}
 #box{
 	width:1200px;
 	height:auto;
-	margin:0 auto;
-	background:#708090;
-	background-size:100%;
+	margin:0 auto
+	background:trasparent;
 }
 #menu{
 	width:1200px;
