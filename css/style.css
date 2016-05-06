@@ -1,4 +1,4 @@
-html
+html{background:black;}
 #box{
 	width:1200px;
 	height:auto;
@@ -8,27 +8,27 @@ html
 #top{
 	width:100%;
 	height:500px;
-	background:gray;
+	background-image:url(img/sfondo.jpg);
+	background-size:100% auto;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-color:#00FFFF
 #menu{
 	width:1200px;
 	height:auto;
-	background:gray;
+	background-image:url(img/sfondo.jpg);
+	background-size:100% auto;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-color:#00FFFF
 }
 #corpo{
 	width:100%;
 	height:70%;
-	background-image:url(img/sfondo.jpg);
-	background-size:100% auto;
-	background-position:center;
-	background-repeat:no-repeat;
-	background-color:#00FFFF;
+	background:trasparent;
 }
 #footer{
 	width:100%;
 	height:100px;
-	background-image:url(img/sfondo.jpg);
-	background-size:100% auto;
-	background-position:center;
-	background-repeat:no-repeat;
-	background-color:#00FFFF;
+	background:trasparent;
 }
