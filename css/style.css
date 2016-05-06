@@ -13,7 +13,11 @@ html{background:black;}
 #menu{
 	width:1200px;
 	height:auto;
-<h1>{ color: green; text-align: centre; text-indent: 50px;}<I Grattacieli></h1>
+	background-image:url(img/sfondo.jpg);
+	background-size:100% auto;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-color:#00FFFF;
 }
 #corpo{
 	width:100%;
