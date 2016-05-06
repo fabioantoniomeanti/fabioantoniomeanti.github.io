@@ -16,11 +16,12 @@ html
 .voce{
 	line-height:40px;
 	width:auto;
-	height:32px;
+	height:40px;
 	float:left;
 	background:#ABCDEF;
 	text-align:center;
 	border:1px solid gray;
+	border-radius:20px;
 	padding:0 40px;
 }
 #top{
