@@ -6,11 +6,12 @@ html{background: black;}
 	background:trasparent;
 }
 #menu{
-	width:1200px;
+	width:120px;
 	height:40px;
 	margin:0 auto;
 	background:#E0FFFF;
 	background-size:auto 40px;
+
 }
 .voce{
 	line-height:40px;
