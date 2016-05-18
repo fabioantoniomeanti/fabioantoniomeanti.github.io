@@ -10,7 +10,6 @@ html{background: black;}
 	width:180px;
 	height:600px;
 	margin-left:65px;
-	background-image:url(css/img/gratcop.png);
 }
 #immagine{
 	width:180px;
@@ -19,6 +18,7 @@ html{background: black;}
 	margin:auto;
 	margin-top:0;
 	margin-right:45px;
+	background-image:url(css/img/gratcop.png);
 }
 .voce{
 	line-height:40px;
