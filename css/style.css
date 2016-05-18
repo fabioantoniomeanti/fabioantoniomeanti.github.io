@@ -2,7 +2,7 @@ html{background: black;}
 #box{
 	width:1200px;
 	height:600px;
-	margin-left:35px;
+	margin-left:0px;
 	background:#123456;
 	background-size:auto 400px;
 }
