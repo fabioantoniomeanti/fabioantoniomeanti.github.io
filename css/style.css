@@ -1,9 +1,9 @@
 html{background: black;}
 #box{
 	width:1200px;
-	height:1000px;
+	height:auto;
 	margin:0 auto;
-	background:#27514F;
+	background:#ABCDEF;
 	background-size:100%;
 }
 #menu{
