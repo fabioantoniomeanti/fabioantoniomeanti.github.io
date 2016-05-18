@@ -16,9 +16,9 @@ html{background: black;}
 	width:auto;
 	height:40px;
 	float:left;
-	background:#B20000;
+	background:#CD5C5C;
 	text-align:center;
-	border:3px solid blue;
+	border:3px solid red;
 	border-radius:20px;
 	padding:0 40px;
 }
