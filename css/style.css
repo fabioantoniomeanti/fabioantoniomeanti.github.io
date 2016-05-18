@@ -37,11 +37,13 @@ html{background: black;}
 	background:transparent;
 }
 #testo{
-	width:800px;
+	width:600px;
 	height:auto;
+	border:3px solid red;
+	border-radius:20px;
 	padding:30px;
 	margin:auto;
-	margin-top:30px;
+	margin-top:300px;
 	clear:both;
 	background:#123456;
 }
