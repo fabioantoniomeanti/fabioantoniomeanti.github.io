@@ -10,7 +10,7 @@ html{background: black;}
 	width:180px;
 	height:600px;
 	margin-left:65px;
-	background:#ABCDEF;
+	background:<div id="immagine"><img style="height:600px; width:180px; margin:0 auto;" src="css/img/gratcop.png" /></div>;
 	background-size:auto 400px;
 }
 #immagine{
