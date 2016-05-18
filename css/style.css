@@ -36,21 +36,6 @@ html{background: black;}
 	height:70%;
 	background:transparent;
 }
-#immagine{
-	width:700px;
-	height:auto;
-	padding:10px;
-	margin:auto;
-	margin-top:30px;
-	background:black;
-	clear:both;
-}
-#immagine img{width:100%;}
-/*#dna1{
-	width:auto;
-	height:auto;
-	float:left;
-}*/
 #testo{
 	width:800px;
 	height:auto;
