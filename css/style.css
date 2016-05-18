@@ -43,7 +43,7 @@ html{background: black;}
 	border-radius:20px;
 	padding:30px;
 	margin:auto;
-	margin-top:-10000px;
+	margin-top:10000px;
 	clear:both;
 	background:#123456;
 }
