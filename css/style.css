@@ -2,19 +2,6 @@
 #wrapper        {width: 960px;margin: 0 auto;background:#fff;}
     #header         {width: 920px;float:left;padding: 20px 20px 20px 20px; background:#21aabd;}
     #mainmenu       {width: 100%;float:left;background: #888}
-#mainmenu li a {
-	line-height:30px;
-	width:auto;
-	height:28px;
-	float:left;
-	background:#C61D26;
-	text-align:center;
-	border-radius:10px;
-	border:1px solid black;
-	padding:0 75px;
-	text-decoration: none;
-	display: block;
-}
     #main           {width: 920px;float:left;padding: 20px 20px 20px 20px;}
     #content        {width: 620px;float:left;}
     #sidebar        {width: 270px;float:right;}
