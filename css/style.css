@@ -94,7 +94,6 @@ float:left;
     #main           {width: 920px;float:left;padding: 20px 20px 20px 20px;}
     #content        {width: 620px;float:left;}
     #sidebar        {width: 200px;float:right;}
-    #footer         {width: 920px;float:left;padding: 30px 20px 10px 20px;background:#ABCDEF;}
     
 @media (min-width: 768px) and (max-width: 980px) {
  
@@ -105,7 +104,6 @@ float:left;
     #main           {width: 708px;float:left;padding: 20px 20px 20px 20px;}
     #content        {width: 470px;float:left;}
     #sidebar        {width: 155px;float:right;}
-    #footer         {width: 708px;float:left;padding: 30px 20px 10px 20px;}
     #mainmenu       {display:block;}
  
 }
@@ -120,7 +118,6 @@ float:left;
     #main           {width:100%;float:left;padding: 20px 0 0 0;}
     #content        {width:100%;float:left;}
     #sidebar        {width:100%;float:right;padding: 20px 0 0 0px;}
-    #footer         {width:100%;float:left;padding: 20px 0 0 0px;}
  
     /* Header */
     .search{display:none;}
@@ -133,7 +130,6 @@ float:left;
     .widget:first-child{margin-right:4%;!important}
  
     #site-title a {font-size:25px;margin-left:10px;}
-    #footer p     {margin-left:10px;}
  
 }
 
@@ -146,7 +142,6 @@ float:left;
     #main           {width: 1130px;float:left;padding: 20px 20px 20px 20px;}
     #content        {width: 670px;float:left;}
     #sidebar        {width: 420px;float:right;}
-    #footer         {width: 1130px;float:left;padding: 30px 20px 10px 20px;}
     #mainmenu       {display:block;}
  
 }
