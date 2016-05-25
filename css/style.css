@@ -94,7 +94,7 @@ float:left;
     #main           {width: 920px;float:left;padding: 20px 20px 20px 20px;}
     #content        {width: 620px;float:left;}
     #sidebar        {width: 200px;float:right;}
-    #footer         {width: 920px;float:left;padding: 30px 20px 10px 20px;background:#666;}
+    #footer         {width: 920px;float:left;padding: 30px 20px 10px 20px;background:#ABCDEF;}
     
 @media (min-width: 768px) and (max-width: 980px) {
  
