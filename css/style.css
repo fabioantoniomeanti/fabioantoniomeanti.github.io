@@ -1,6 +1,10 @@
 
 #wrapper        {width: 960px;margin: 0 auto;background:#fff;}
     #header         {width: 920px;float:left;padding: 20px 20px 20px 20px; background:#21aabd;}
+body{
+font-family:Arial, Helvetica, sans-serif;
+font-size:100%;
+}
     #mainmenu       {width: 100%;float:left;background: #888}
 body{
 background:#FFC;
