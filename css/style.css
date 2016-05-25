@@ -1,56 +1,65 @@
-html{background: black;}
-#box{
-	width:1200px;
-	height:1200px;
-	margin:0 auto;
-	background:#FF9966;
-	background-size:100%;
+
+#wrapper        {width: 960px;margin: 0 auto;background:#fff;}
+    #header         {width: 920px;float:left;padding: 20px 20px 20px 20px; background:#21aabd;}
+    #mainmenu       {width: 100%;float:left;background: #888}
+    #main           {width: 920px;float:left;padding: 20px 20px 20px 20px;}
+    #content        {width: 620px;float:left;}
+    #sidebar        {width: 270px;float:right;}
+    #footer         {width: 920px;float:left;padding: 30px 20px 10px 20px;background:#666;}
+    
+@media (min-width: 768px) and (max-width: 980px) {
+ 
+    /* Structure 768 to 980 */
+    #wrapper        {width: 748px;margin: 0 auto;}
+    #header         {width: 708px;float:left;padding: 20px 20px 20px 20px;}
+    #mainmenu       {width: 100%;float:left;}
+    #main           {width: 708px;float:left;padding: 20px 20px 20px 20px;}
+    #content        {width: 470px;float:left;}
+    #sidebar        {width: 210px;float:right;}
+    #footer         {width: 708px;float:left;padding: 30px 20px 10px 20px;}
+    #mainmenu       {display:block;}
+ 
 }
-#menu{
-	width:180px;
-	height:600px;
-	margin-left:65px;
+
+@media (max-width: 767px) {
+ 
+    /* Structure  < 767 */
+    body{padding:10px;background:#fff;}
+    #wrapper        {width:100%;margin: 0 auto;}
+    #header         {width:100%;padding: 20px 0 20px 0px;}
+    #mainmenu       {width:100%;float:left;}
+    #main           {width:100%;float:left;padding: 20px 0 0 0;}
+    #content        {width:100%;float:left;}
+    #sidebar        {width:100%;float:right;padding: 20px 0 0 0px;}
+    #footer         {width:100%;float:left;padding: 20px 0 0 0px;}
+ 
+    /* Header */
+    .search{display:none;}
+    .btn-responsive-menu{display:block;}
+    #mainmenu           {display:none;}
+    #mainmenu ul li     {float: none;}
+ 
+    /* Sidebar */
+    .widget{width:48%;float:left;}
+    .widget:first-child{margin-right:4%;!important}
+ 
+    #site-title a {font-size:25px;margin-left:10px;}
+    #footer p     {margin-left:10px;}
+ 
 }
-.voce{
-	line-height:40px;
-	width:auto;
-	height:40px;
-	float:left;
-	background:#CD5C5C;
-	text-align:center;
-	border:3px solid red;
-	border-radius:20px;
-	padding:0 40px;
+
+@media (min-width: 1200px) {
+ 
+    /* Structure > 1200px */
+    #wrapper        {width: 1170px;margin: 0 auto;}
+    #header         {width: 1130px;float:left;padding: 20px 20px 20px 20px;}
+    #mainmenu       {width: 100%;float:left;}
+    #main           {width: 1130px;float:left;padding: 20px 20px 20px 20px;}
+    #content        {width: 670px;float:left;}
+    #sidebar        {width: 420px;float:right;}
+    #footer         {width: 1130px;float:left;padding: 30px 20px 10px 20px;}
+    #mainmenu       {display:block;}
+ 
 }
-#top{
-        width:100%;
-	height:0px;
-	background-image:url(css/img/sfondo.png);
-	background-size:100% auto;
-	background-position:center;
-	background-repeat:no-repeat;
-	background-color:#ABCDEF;
-}	
-#corpo{
-	width:100%;
-	height:70%;
-	background:transparent;
-}
-#testo{
-	width:600px;
-	height:790px;
-	border:3px solid red;
-	border-radius:20px;
-	padding:30px;
-        margin-top:-170px;
-        margin-right:200px;
-        margin-left:190px;
-	clear:both;
-	background:#FFCC99;
-	font-family: "Algerian";
-}
-#footer{
-	width:100%;
-	height:100px;
-	background:transparent;
-}
+
+
