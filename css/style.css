@@ -92,7 +92,7 @@ width:100%;
 float:left;	
 }
     #main           {width: 920px;float:left;padding: 20px 20px 20px 20px;}
-    #content        {width: 620px;float:left;}
+    #content        {width: 620px;float:left;font-family:Arial, Helvetica, sans-serif;}
     #sidebar        {width: 270px;float:right;}
     
 @media (min-width: 768px) and (max-width: 980px) {
