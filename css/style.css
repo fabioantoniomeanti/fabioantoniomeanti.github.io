@@ -126,7 +126,7 @@ float:left;
     #mainmenu ul li     {float: none;}
  
     /* Sidebar */
-    .widget{width:48%;float:left;}
+    .widget{width:48%;float:right;}
     .widget:first-child{margin-right:4%;!important}
  
     #site-title a {font-size:25px;margin-left:10px;}
