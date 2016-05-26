@@ -220,6 +220,8 @@ padding:0;
 }
 #testo{
 	font-size:36px;
+	background:red;
+	font-family:"algerian";
 }
 #testo1{
 	font-size:24px;
