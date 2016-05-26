@@ -155,16 +155,16 @@ z-index:100;
 
 
 
-a.mini1 {background:url(big1.jpg);}
-a.mini2 {background:url(big2.jpg);}
-a.mini3 {background:url(big3.jpg);}
-a.mini4 {background:url(big4.jpg);}
-a.mini5 {background:url(big5.jpg);}
-a.mini6 {background:url(big6.jpg);}
-a.mini7 {background:url(big7.jpg);}
-a.mini8 {background:url(big8.jpg);}
-a.mini9 {background:url(big9.jpg);}
-a.mini10 {background:url(big10.jpg);}
+a.mini1 {background:url(mini1.jpg);}
+a.mini2 {background:url(mini2.jpg);}
+a.mini3 {background:url(mini3.jpg);}
+a.mini4 {background:url(mini4.jpg);}
+a.mini5 {background:url(mini5.jpg);}
+a.mini6 {background:url(mini6.jpg);}
+a.mini7 {background:url(mini7.jpg);}
+a.mini8 {background:url(mini8.jpg);}
+a.mini9 {background:url(mini9.jpg);}
+a.mini10 {background:url(mini10.jpg);}
 
 
 a.galleria:hover {border:1px solid #ddd;}
