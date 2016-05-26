@@ -94,7 +94,6 @@ float:left;
     #main           {width: 920px;float:left;padding: 20px 20px 20px 20px;}
     #content        {width: 620px;float:left;font-family:Arial, Helvetica, sans-serif;}
     #sidebar        {width: 270px;float:right;}
-.page-sidebar {}
 body{
 margin: 20px auto;
 padding:0;
@@ -212,8 +211,8 @@ z-index:200;
 .image {
 display:block; 
 position:absolute; 
-width:400px; 
-height:250px;
+width:284px; 
+height:177px;
 top:175px;
 left:10px;
 padding:0; 
