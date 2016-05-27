@@ -118,6 +118,7 @@ float:left;
  #testo1{
  	font-size:24px;
  	text-align:center;
+ 	margin-left:100px;
  }
 @media (min-width: 768px) and (max-width: 980px) {
  
