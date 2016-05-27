@@ -98,7 +98,7 @@ float:left;
     /* parametro obbligatorio */
     overflow:hidden;
     /* qui potete personalizzare la dimensione , la posizione e l'aspetto */
-    width:768px;height:432px;
+    width:500px;height:300px;
     position:relative;
     top:20px;left:116px;   
     background:white;
