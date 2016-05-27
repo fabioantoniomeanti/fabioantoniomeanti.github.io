@@ -110,12 +110,6 @@ float:left;
     position:absolute;
     top:0px;left:0px;
    }
-#testo{
-	font-size:36px;
-	font-family:"algerian";
-}
-#testo1{
-	font-size:24px;
 @media (min-width: 768px) and (max-width: 980px) {
  
     /* Structure 768 to 980 */
