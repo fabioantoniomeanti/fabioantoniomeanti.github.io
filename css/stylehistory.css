@@ -99,7 +99,7 @@ float:left;
     /* qui potete personalizzare la dimensione , la posizione e l'aspetto */
     width:500px;height:300px;
     position:relative;
-    top:20px;   
+    top:20px; center  
     background:white;
     box-shadow:0px 0px 15px black;
    }
