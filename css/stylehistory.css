@@ -99,7 +99,7 @@ float:left;
     /* qui potete personalizzare la dimensione , la posizione e l'aspetto */
     width:500px;height:300px;
     position:relative;
-    top:20px; margin-left:center; 
+    top:20px; left:300px; 
     background:white;
     box-shadow:0px 0px 15px black;
    }
@@ -127,6 +127,7 @@ float:left;
     #mainmenu       {width: 100%;float:left;}
     #main           {width: 708px;float:left;padding: 20px 20px 20px 20px;}
     #content        {width: 708px;float:left;}
+    #slide 	    {left:230px;}
     #mainmenu       {display:block;}
  
 }
@@ -140,6 +141,7 @@ float:left;
     #mainmenu       {width:100%;float:left;}
     #main           {width:100%;float:left;padding: 20px 0 0 0;}
     #content        {width:100%;float:left;}
+    #slide          {left:100%;}
  
     /* Header */
     .search{display:none;}
@@ -163,6 +165,7 @@ float:left;
     #mainmenu       {width: 100%;float:left;}
     #main           {width: 1130px;float:left;padding: 20px 20px 20px 20px;}
     #content        {width: 1130px;float:left;}
+    #slide          {left:368px;}
     #mainmenu       {display:block;}
  
 }
