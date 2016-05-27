@@ -113,11 +113,11 @@ float:left;
    
  #testo{ text-align:center
          font-family:"algerian";
-         font-size:30pt;
+         font-size:26pt;
   }
  #testo1{ text-align:center;
  	  font-size:20pt;
- 	  margin:0px;
+ 	  margin-left:300px;
  }
 @media (min-width: 768px) and (max-width: 980px) {
  
