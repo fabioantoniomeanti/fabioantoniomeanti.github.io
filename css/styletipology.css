@@ -91,7 +91,9 @@ width:100%;
 float:left;	
 }
     #main           {width: 920px;float:left;padding: 20px 20px 20px 20px;}
-    #content        {width: 920px;float:left;font-family:Arial, Helvetica, sans-serif;}
+    #content        {width: 920px;float:left;font-family:Arial, Helvetica, sans-serif;
+                     background-position:center;
+    }
    
  #testo{ 
          font-family:"algerian";
