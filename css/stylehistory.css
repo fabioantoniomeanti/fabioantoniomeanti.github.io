@@ -121,6 +121,11 @@ float:left;
  	font-size:24px;
  	text-align:center;
  }
+ #testo2{
+ 	font-size:24px;
+ 	margin-left:0px;
+ 	text-align:left;
+ }
 @media (min-width: 768px) and (max-width: 980px) {
  
     /* Structure 768 to 980 */
